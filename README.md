@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![bibhas's github stats](https://github-readme-stats.vercel.app/api?username=bibhas44&show_icons=true&theme=gruvbox)
+![bibhas's github stats](https://github-readme-stats.vercel.app/api?username=bibhas44&show_icons=true&theme=merko)
 ![bibhas's github stats](https://github-readme-stats.vercel.app/api?username=bibhas44&hide=contribs,prs)
 
 <!--
