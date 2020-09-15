@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/bibhas44/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bibhas44&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/bibhas44/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bibhas44&repo=convoychat" />
-</a>
+
 
 ![bibhas's github stats](https://github-readme-stats.vercel.app/api?username=bibhas44&show_icons=true&theme=highcontrast)
 <br>
