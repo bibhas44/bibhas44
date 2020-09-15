@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Bibhas. I'm a Software Engineer.
+
+🔭 I’m currently working on Web Development.
 
 
 ![bibhas's github stats](https://github-readme-stats.vercel.app/api?username=bibhas44&show_icons=true&theme=highcontrast)
@@ -8,7 +11,7 @@
 
 <a href="https://badges.pufler.dev/years/bibhas44"><img src="https://badges.pufler.dev/years/bibhas44" alt="Years Badge"></a>
 
-<a href="https://badges.pufler.dev/visits/bibhas44/"><img src="https://badges.pufler.dev/visits/bibhas44" alt="Visits Badge"></a>
+<
 
 
 <!--
