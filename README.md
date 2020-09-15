@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Bibhas's github stats](https://github-readme-stats.vercel.app/api?username=bibhas44)](https://github.com/bibhas/github-readme-stats)
+
 <!--
 **bibhas44/bibhas44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
