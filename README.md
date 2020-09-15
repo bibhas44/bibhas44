@@ -6,8 +6,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibhas44&layout=compact)](https://github.com/bibhas44/github-readme-stats)
 
-[![Visits Badge](https://badges.pufler.dev/visits/bibhas44/git-badges)](https://badges.pufler.dev)
-
+https://badges.pufler.dev/years/bibhas44
 
 <!--
 **bibhas44/bibhas44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
