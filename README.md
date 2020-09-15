@@ -6,11 +6,11 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </div>
 -->
-I'm <b> Bibhas.</b> I'm a Software Engineer.
+I'm <b> Bibhas.</b> I'm a Software Engineer from Bengalore, India.
 
 🔭 I’m currently working on Web Development.
 
-🌱 I’m currently exploring javascript libraries & frameworks
+🌱 I’m currently exploring javascript libraries & frameworks.
 
 You can reach me by:
 <br>
@@ -21,6 +21,9 @@ You can reach me by:
 <a href="linkedin.com/in/bibhas-ghoshal-9b46b7148" rel="nofollow">
   <img src="https://camo.githubusercontent.com/0c4286a2bd43a8fe3b39f93c037c63612e014c62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d6c696e6b6564696e3f6c6162656c3d4c696e6b6564496e266c6f676f3d4c696e6b6564496e267374796c653d736f6369616c" alt="Connect on LinkedIn" data-canonical-src="https://img.shields.io/badge/--linkedin?label=LinkedIn&amp;logo=LinkedIn&amp;style=social" style="max-width:100%;">
 </a>
+
+Or you can directly come to 
+<a href="https://www.digitalbibhas.com/"> Bibhas </a>
 
 <div align="center">
 
