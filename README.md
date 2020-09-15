@@ -13,7 +13,9 @@ I'm <b> Bibhas.</b> I'm a Software Engineer.
 🌱 I’m currently exploring javascript libraries & frameworks
 
 You can reach me by:
+<br>
   <a href="https://twitter.com/BibhasGhoshal" rel="nofollow"><img        src="https://camo.githubusercontent.com/66e4575a29d7106b1b3bcb528057d62fd62a6fe0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d747769747465723f6c6162656c3d54776974746572266c6f676f3d54776974746572267374796c653d736f6369616c" alt="Follow on Twitter" data-canonical-src="https://img.shields.io/badge/--twitter?label=Twitter&amp;logo=Twitter&amp;style=social" style="max-width:100%;"></a>
+  &nbsp; &nbsp; asd
 
 <div align="center">
 
