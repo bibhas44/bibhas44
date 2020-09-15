@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![bibhas's github stats](https://github-readme-stats.vercel.app/api?username=bibhas44)](https://github.com/bibhas/github-readme-stats)
 ![bibhas's github stats](https://github-readme-stats.vercel.app/api?username=bibhas44&show_icons=true&theme=radical)
 
 <!--
