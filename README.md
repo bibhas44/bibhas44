@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </div>
 -->
-I'm <b> Bibhas </b>, I'm a Software Engineer.
+I'm <b> Bibhas.</b> I'm a Software Engineer.
 
 🔭 I’m currently working on Web Development.
 
